@@ -10,7 +10,7 @@ const App = () => {
   };
   return (
     <section className="section-center">
-      <h4>tired of boring lorem ipsum?</h4>
+      <h4>ULTIMATE PARAGRAPH GENERATOR</h4>
       <form className="lorem-form" onSubmit={handleSubmit}>
         <label htmlFor="amount">paragraphs:</label>
         <input
